@@ -42,7 +42,7 @@ the c-means code requires that the conda libary being the most current.
 1) install python 3.x using anaconda (at time of writing this is 3.8)
 note it is also critcal to inusre that the conda is up todate
 Next steps are done from the anaconda terminal:
-2) create a new python enviroment: conda create -n cmeansenviroment
-3) install hyperspy (This will install Hyperspy and Sk-Learn): conda install hpyerspy -c
-condaforge
-4) install cmeans (skcmeans)
+2) create a new python enviroment: conda create -n cmeans_env
+**note** cmeans_env is a dummy name for the clustering enviroment. Your choice what to call the enviroment.
+3) install hyperspy (This will install Hyperspy and Sk-Learn): conda install hpyerspy -c condaforge
+4) install cmeans (skcmeans): pip install https://github.com/bm424/scikitcmeans/archive/master.zip
