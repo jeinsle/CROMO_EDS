@@ -1,6 +1,8 @@
 # CROMO_EDS
 Example clustering workflow for EDS analysis as presented in M. Tominaga et al 2021 (GRL https://doi.org/10.1029/2020GL088472 ).
 
+If adapting this workflow for your own analysis please cite the refrence above.
+
 ## Introduction
 
 ### 1.1 Fuzzy C-means clustering appied to cross-section EDS data from QV1.120
