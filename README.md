@@ -1,5 +1,5 @@
 # CROMO_EDS
-Example clustering workflow for EDS analysis as presented in M. Tominaga et al 2020 (forthcoming).
+Example clustering workflow for EDS analysis as presented in M. Tominaga et al 2021 (GRL https://doi.org/10.1029/2020GL088472 ).
 
 ## Introduction
 
